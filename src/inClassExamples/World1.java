@@ -1,3 +1,4 @@
+package inClassExamples;
 import javafx.application.Application;
 import javafx.geometry.Point3D;
 import javafx.scene.AmbientLight;
